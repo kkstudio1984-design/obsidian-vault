@@ -5,6 +5,9 @@
 ## 進行中專案
 - [[金智官網]] — 智廷工程行官網 SEO 推進中（hub: `10-Projects/金智官網/`）
 
+## 🧠 MOC（領域地圖）
+- [[Claude MOC]] — 跟 Claude / AI 開發累積的所有筆記
+
 ## 🔥 全 vault 未完成待辦（自動）
 
 ```dataview
