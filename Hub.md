@@ -5,7 +5,25 @@
 ## 進行中專案
 - [[金智官網]] — 智廷工程行官網 SEO 推進中（hub: `10-Projects/金智官網/`）
 
-## 持續關注（自己加）
+## 🔥 全 vault 未完成待辦（自動）
+
+```dataview
+TASK
+WHERE !completed AND !contains(file.path, "90-Templates")
+GROUP BY file.link
+```
+
+## 📅 最近編輯的筆記（自動）
+
+```dataview
+TABLE file.mtime AS "最後修改"
+FROM ""
+WHERE file.name != "Hub"
+SORT file.mtime DESC
+LIMIT 10
+```
+
+## 📂 持續關注（自己加）
 - 
 
 ## 第二大腦守則
