@@ -1,0 +1,16 @@
+{
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "available": true,
+    "format": "YYYY-MM-DD",
+    "folder": "99-Daily",
+    "template": "90-Templates/Daily-template",
+    "enableCommands": true
+  },
+  "weekly": { "available": false },
+  "monthly": { "available": false },
+  "quarterly": { "available": false },
+  "yearly": { "available": false }
+}
