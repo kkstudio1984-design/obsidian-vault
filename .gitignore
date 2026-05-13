@@ -1,0 +1,12 @@
+# Obsidian workspace state — different per device, don't sync
+.obsidian/workspace*
+.obsidian/cache
+.obsidian/appearance.json
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Trash
+.trash/
