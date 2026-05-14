@@ -1,5 +1,7 @@
 # 金智官網｜上線 SEO 完整教學
 
+> ⚠️ **2026-05-14 更新**：原文以 `kingzhi.com` 撰寫，現已改用 `kingzhi.tw`。Section B 的 Vercel 端「Add Domain」已完成（`kingzhi.tw` + `www.kingzhi.tw` 已綁到 kingzhi-web 專案），剩下的步驟是去 `.tw` 註冊商後台設 DNS A record 指向 `76.76.21.21`。下文未逐句替換，請把所有 `kingzhi.com` 心理替換成 `kingzhi.tw`。
+
 > 給你 / 自己跟著做的 step-by-step 操作指南。  
 > 目標：讓 Google 找到網站、開始抓內容、慢慢累積搜尋流量。  
 > 預估時間：A+B 約 30 分鐘，C 看你要不要做。

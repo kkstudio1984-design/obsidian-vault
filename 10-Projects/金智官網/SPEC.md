@@ -1666,6 +1666,7 @@ Step 7: 正式測試 webhook 回環
 
 | **版本** | **日期** | **重點** |
 | --- | --- | --- |
+| v1.6 | 2026-05-14 | 正式網域 `kingzhi.com` → `kingzhi.tw`（郭老闆 2026-05-14 購入；`.com` 棄用、停在 eName 停車頁）：<br>• 全站 `SITE` fallback、`metadataBase`、sitemap、robots、JSON-LD canonical 改為 `kingzhi.tw`（PR #14）<br>• Vercel domain 已加 `kingzhi.tw` + `www.kingzhi.tw`，production env `NEXT_PUBLIC_SITE_URL=https://kingzhi.tw`<br>• Resend SPF/DKIM 驗證對象改 `kingzhi.tw`；`from` 待改 `noreply@kingzhi.tw`<br>• DNS 待 `.tw` 註冊商設 A record `76.76.21.21` |
 | v1.0 | 2026-04-24 | 原版：PRD + SDD + TDD 合併可攜版，供 Claude Code 單檔讀取使用 |
 | v1.5 | 2026-04-24 | Claude Design 交付視覺稿 + Claude Code 完成方案 B 全站實作：<br>• **視覺方向大翻新**：深藍+消防橘 → **黑金 luxury 風格**（客戶確認採用）<br>• 主色改為純黑 `#0f0f0f` 背景 + 香檳金 `#c9a876` 強調<br>• §A-8 移除「深色模式」Out of Scope 限制<br>• 新增**首頁業主／管委會 Tab 切換**（UX 加分，SPEC 原無）<br>• 文章內容加入**北北基具體價格區間**（客戶確認可公開）<br>• 專案 scaffold 完成於 `D:/GOLD/kingzhi-web/`（53 個檔案）<br>• 内建 mock data fallback：無 Notion token 也能先看視覺<br>• 所有 /knowledge, /cases, /services 索引頁 + slug 頁 + /contact + 404 + sitemap + robots + API 全數完成 |
 | v1.4 | 2026-04-24 | 客戶二次回覆：<br>• LINE 方案確定為 **(A) 群組推播**：建「智廷詢價通知」LINE 群組，王小姐+郭老闆同在<br>• env var 由 `LINE_TARGET_USER_ID` 改為 `LINE_TARGET_GROUP_ID`<br>• T01 前置作業補完整 LINE 群組設定 6 步驟<br>• `sendLineMessaging()` code skeleton 同步改群組 push<br>• **新增 UI 設計流程備註**：由 Claude Design 出視覺稿 → Claude Code 依稿實作，設計稿與 SPEC §A-5 衝突時以設計稿為準 |
