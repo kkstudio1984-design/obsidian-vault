@@ -1,5 +1,4 @@
 {
-  "gitPath": "C:\\Program Files\\Git\\cmd\\git.exe",
   "commitMessage": "vault backup: {{date}}",
   "autoCommitMessage": "vault backup: {{date}}",
   "commitMessageScript": "",
