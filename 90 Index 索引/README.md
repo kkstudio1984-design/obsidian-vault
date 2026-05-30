@@ -12,6 +12,8 @@
 
 ## 常用入口
 
+- [[Obsidian Web Clipper 教學]]
+
 - [[20 分鐘課程生成 Skill]]
 
 - [[每週知識庫複盤 Skill]]
