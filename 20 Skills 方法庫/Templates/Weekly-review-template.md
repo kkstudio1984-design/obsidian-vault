@@ -1,10 +1,10 @@
 ---
-created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
+created: 2026-05-30 20:36
 tags: [weekly-review]
-week: <% tp.date.now("YYYY-[W]ww") %>
+week: 2026-W22
 ---
 
-# 第 <% tp.date.now("ww") %> 週覆盤（<% tp.date.now("YYYY-MM-DD", -6) %> ~ <% tp.date.now("YYYY-MM-DD") %>）
+# 第 22 週覆盤（2026-05-24 ~ 2026-05-30）
 
 ## 📅 本週做了什麼（自動）
 
@@ -61,4 +61,4 @@ FROM "00-Inbox"
 - 一個要停止做的：
 
 ## 🔗 連結到上週
-← [[<% tp.date.now("YYYY-[W]ww", -7) %>|上週覆盤]]
+← [[2026-W21|上週覆盤]]

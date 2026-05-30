@@ -1,10 +1,10 @@
 ---
-created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
+created: 2026-05-30 20:36
 tags: [inbox]
 status: unprocessed
 ---
 
-# <% tp.file.title %>
+# 自生長知識庫整理流程
 
 （隨手寫，週日整理時決定歸到哪）
 

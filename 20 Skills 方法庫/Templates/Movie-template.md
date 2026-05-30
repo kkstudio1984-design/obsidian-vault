@@ -1,15 +1,15 @@
 ---
 type: movie
-title: <% tp.file.title %>
+title: 自生長知識庫整理流程
 director: 
 year: 
 status: watched
 rating: 
-watched: <% tp.date.now("YYYY-MM-DD") %>
+watched: 2026-05-30
 tags: [movie]
 ---
 
-# <% tp.file.title %>
+# 自生長知識庫整理流程
 
 ## 一句話
 > 

@@ -1,15 +1,15 @@
 ---
 type: book
-title: <% tp.file.title %>
+title: 自生長知識庫整理流程
 author: 
 status: reading
 rating: 
-started: <% tp.date.now("YYYY-MM-DD") %>
+started: 2026-05-30
 finished: 
 tags: [book]
 ---
 
-# <% tp.file.title %>
+# 自生長知識庫整理流程
 
 ## 為什麼讀
 - 
