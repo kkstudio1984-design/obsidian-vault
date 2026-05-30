@@ -1,4 +1,4 @@
----
+﻿---
 title: "Karpathy LLM Wiki 知識系統實踐：基礎安裝與建置篇"
 source: "https://kenming.idv.tw/karpathy-llm-wiki-fundamental/"
 author:
@@ -364,3 +364,6 @@ Karpathy LLM Wiki 的基礎設置其實不複雜。
 這就是 LLM Wiki 和傳統文件整理或一次性 RAG 最大的差別。
 
 下一步，等基礎流程穩定後，就可以進一步討論如何導入 skill、搜尋工具與自動化流程，讓這套知識系統更適合長期維運。
+## 整理狀態
+
+已整理為來源摘要，保留此檔作為原始剪藏來源。

@@ -54,10 +54,12 @@ https://obsidian.md/clipper
 
 ### 2. 選擇 vault
 
-在 Clipper 底部選擇目前使用的 vault：
+注意：Web Clipper 的 Vault 欄位要填 vault 名稱，不是 Windows 路徑。這裡請選 Obsidian-vault。
+
+在 Clipper 底部選擇目前使用的 vault 名稱：
 
 ```text
-D:\Obsidian-vault
+Obsidian-vault
 ```
 
 如果看不到 vault，先確認 Obsidian 已經開過這個 vault，並允許瀏覽器開啟 Obsidian protocol。
@@ -455,7 +457,7 @@ Codex 每週整理
 
 檢查：
 
-- Clipper 選到的 vault 是否是 `D:\Obsidian-vault`。
+- Clipper 選到的 vault 是否是 `Obsidian-vault`。
 - Folder 是否填對。
 - Obsidian 是否允許瀏覽器開啟 Obsidian protocol。
 - Obsidian 是否需要重新整理。
