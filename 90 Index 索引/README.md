@@ -28,6 +28,8 @@
 
 ## 教學與輸出
 
+- [[90 分鐘優化版：從課程會議記錄到 AI 工作流與 LLM Wiki]]
+
 - [[2026-05-31 明天上課版：20 分鐘教會 Web Clipper 到 LLM Wiki]]
 
 - [[Obsidian Web Clipper 教學]]
